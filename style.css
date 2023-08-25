@@ -1,0 +1,71 @@
+body {
+    background-color: antiquewhite;
+}
+
+.relogio {
+    font-size: 4rem;
+    border: 5px solid #fff;
+    text-align: center;
+    padding: 55px;
+    width: auto;
+    margin-left: 25rem;
+    margin-top: 10rem;
+    justify-content: center;
+    color: red;
+    background-color: black;
+
+
+}
+
+.container {
+    background-color: #333;
+    font-size: 5rem;
+    text-align: center;
+    padding: auto;
+    width: 25rem;
+    margin-left: 25rem;
+    margin-top: 4rem;
+}
+
+.clock {
+    font-size: 5rem;
+    color: #fff;
+    text-align: center;
+    border: 5px solid #fff;
+    background-color: black;
+
+}
+
+.clock,
+span {
+    color: red;
+    font-size: 3rem;
+}
+
+.direitos {
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 15rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+
+
+}
+
+h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.content {
+    text-align: center;
+    font-size: 2rem;
+}
+
+a {
+    color: #333;
+}
